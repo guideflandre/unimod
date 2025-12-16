@@ -41,11 +41,10 @@
 #' @references
 #' Source and more details: \url{http://www.unimod.org/unimod_help.html}
 #'
-#' @docType package
 #' @name unimod-package
 #' @author Sebastian Gibb \email{mail@@sebastiangibb.de}
 #' @references \url{https://github.com/ComputationalProteomicsUnit/unimod/}
 #' @keywords package
 #'
 #' @importFrom utils packageVersion
-NULL
+"_PACKAGE"

@@ -4,3 +4,5 @@
 ^\.travis.yml$
 ^playground$
 ^notes$
+^.*\.Rproj$
+^\.Rproj\.user$

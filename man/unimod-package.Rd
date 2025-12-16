@@ -2,6 +2,7 @@
 % Please edit documentation in R/package.R
 \docType{package}
 \name{unimod-package}
+\alias{unimod}
 \alias{unimod-package}
 \title{Managing amino acid modifications for mass spectrometry in R.}
 \description{
@@ -46,6 +47,14 @@ Other compilations of modifications with a mass spectrometry bias:
 Source and more details: \url{http://www.unimod.org/unimod_help.html}
 
 \url{https://github.com/ComputationalProteomicsUnit/unimod/}
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ComputationalProteomicsUnit/unimod}
+  \item Report bugs at \url{https://github.com/ComputationalProteomicsUnit/unimod/issues}
+}
+
 }
 \author{
 Sebastian Gibb \email{mail@sebastiangibb.de}
