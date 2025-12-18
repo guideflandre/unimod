@@ -100,7 +100,7 @@ convertAnnotation <- function(x,
     convert_to <- match.arg(convert_to)
     
     # Get Unimod data - simplified without priority rules
-    unimod_data <- unimod::modifications[!unimod::modifications$NeutralLoss, 
+    unimod_data <- modifications[!modifications$NeutralLoss, 
                                          c("UnimodId", "Name", "MonoMass")]
     unimod_data <- unimod_data[!duplicated(unimod_data$Name), ]
     
