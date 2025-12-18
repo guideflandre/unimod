@@ -1,5 +1,7 @@
 #' @name convertAnnotation
 #' 
+#' @aliases convertAnnotation .convertAnnotation convertStyle unimodStyle
+#'
 #' @title Convert sequences from one annotation style to another
 #'
 #' @description

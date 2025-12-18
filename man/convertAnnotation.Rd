@@ -2,6 +2,9 @@
 % Please edit documentation in R/convertAnnotation.R
 \name{convertAnnotation}
 \alias{convertAnnotation}
+\alias{.convertAnnotation}
+\alias{convertStyle}
+\alias{unimodStyle}
 \title{Convert sequences from one annotation style to another}
 \usage{
 convertAnnotation(
