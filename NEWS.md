@@ -1,5 +1,10 @@
 # unimod 0.x
 
+## unimod 0.3 
+
+- Add `convertAnnotation()` to parse and convert between 3 PTM annotation 
+    styles. Currently only supports `unimodId`, unimod `name` and `deltaMass`.
+
 ## unimod 0.2 [2023-02-05]
 
 - Update datasets to latest unimod version.
