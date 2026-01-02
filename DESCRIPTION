@@ -6,7 +6,11 @@ Author: Laurent Gatto and Sebastian Gidd
 Authors@R: c(person(given = "Laurent", family = "Gatto",
 	            email = "laurent.gatto@uclouvain.be", role = c("aut")),
              person("Sebastian", "Gibb", role=c("aut", "cre"),
-              email="mail@sebastiangibb.de"))
+              email="mail@sebastiangibb.de"),
+            person(given = "Guillaume", family = "Deflandre",
+            email = "guillaume.deflandre@uclouvain.be",
+            role = "ctb",
+            comment = c(ORCID = "0009-0008-1257-2416")))
 Description: An interface to the community supported database for
 	     amino acide/protein modifications using mass
 	     spectrometry.
